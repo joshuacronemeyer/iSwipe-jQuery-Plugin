@@ -8,7 +8,10 @@ This is a jQuery plugin to add support for the "swipe" gesture in Mobile Safari.
 
 We decided to write our own after having trouble finding one that worked well. You can check it out by browsing our website on your iOS device: [Heyday](http://heyday.co.nz/) - try swiping our client portfolio or open a gallery and navigate the thumbs with a vertical swipe and the main image with a horizontal swipe.
 
-The plugin can operate in 3 modes: vertical only swipe, horizontal only swipe or both.
+*Features:*
+1. Has 4-way swipe support - up/down, left/right
+2. Can operate in 3 modes: vertical only, horizontal only or both directions.
+3. Defined horizontal and vertical swipe thresholds
 
 It ain't perfect...
 -------------------
